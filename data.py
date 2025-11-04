@@ -1,0 +1,3 @@
+quetions =[]
+options = [[]]
+ans = []
